@@ -1,1 +1,7 @@
+# Ejercicio 1
 
+**Notas del curso**
+
+Crear la clase Estudiante con los atributos nombre, nota1, nota2, nota3 y promedio. En main, crear 5 instancias, 
+calcular el promedio de cada una e imprimirlas una debajo de otra con el formato nombre : promedio, agregando Aprobado (7 o más), 
+Supletorio (de 5 a 6.99) o Reprobado (menos de 5). Al final, imprimir cuántos estudiantes aprobaron.
